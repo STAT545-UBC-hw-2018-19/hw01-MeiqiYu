@@ -29,11 +29,11 @@ This repository includes all files associated with [STAT 545A](stat545.com/
  * 2015 Summer
  * Research Topic:
  * Interesting thing to note: TRIUMF houses the world's largest [cyclotron](https://en.wikipedia.org/wiki/Cyclotron)
-   ![The Cyclotron in TRIUMF](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/Construction.jpg)
+   ![The Cyclotron in TRIUMF](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/Construction.jpg)
    
 ## Research Interest
 Design of CMOS Integrated Circuit
-   ![A chip under test](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/chip.jpg)
+   ![A chip under test](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/chip.jpg)
 
 ## Hobbies
 * Travel :airplane:
@@ -41,12 +41,12 @@ Design of CMOS Integrated Circuit
 - [x]Seattle
 - [ ]Cuba
 - [ ]Hawaii
-   ![Me in Disneyland](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/travel.jpg) ![Me in Joffrey Lake](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/whistler.jpg)
+   ![Me in Disneyland](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/travel.jpg) ![Me in Joffrey Lake](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/whistler.jpg)
 
 * Board skiing :surfer:
-   ![Skiing](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/skiing.jpg)
+   ![Skiing](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/skiing.jpg)
 
 * Pay the Piano :musical_keyboard:
-   ![Playing the piano](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/piano.jpg)
+   ![Playing the piano](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/piano.jpg)
 * Enjoy delicous food :ramen: 
-   ![I cook myself a dinner](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/dinner.jpg)
+   ![I cook myself a dinner](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/dinner.jpg)
