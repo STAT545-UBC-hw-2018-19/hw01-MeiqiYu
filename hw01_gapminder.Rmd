@@ -1,0 +1,53 @@
+---
+title: "hw01_gapminder"
+output: github_document 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+summary(cars)
+```
+
+
+
+```{r}
+library(gapminder)
+head(gapminder)
+```
+
+```{r}
+library(gapminder)
+str(gapminder)
+```
+
+
+```{r}
+library(gapminder)
+summary(gapminder)
+```
+
+
+```{r}
+library(gapminder)
+plot(lifeExp ~ year, gapminder, subset = country == "Cambodia", type = "b")
+```
+
+```{r}
+library(gapminder)
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 2007, log = "x")
+```
+
+
+```{r}
+library(gapminder)
+table(gapminder$continent)
+```
+
+
+
+
+
