@@ -11,7 +11,7 @@ This repository includes all files associated with [STAT 545A](stat545.com/
 
 # Self Introduction
 ## Head Shot
-![](/STAT545A/STAT_545A_files/assign/hw01-MeiqiYu/head.jpg)
+![](https://github.com/STAT545-UBC-students/hw01-MeiqiYu/blob/master/head.jpg)
 
 ## Program
 
